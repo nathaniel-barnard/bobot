@@ -18,6 +18,6 @@ digitalWrite(RPWM, HIGH);
 digitalWrite(LPWM, LOW);
 delay(timeA);
 digitalWrite(RPWM, LOW);
-digitalWrite(LPWM, HIGH);
+digitalWrite(LPWM, LOW);
 delay(timeA);
 }
